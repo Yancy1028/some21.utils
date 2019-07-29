@@ -1,6 +1,6 @@
 {
   "name": "some21.utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "json to the formdata object",
   "main": "./dist/index.js",
   "scripts": {
